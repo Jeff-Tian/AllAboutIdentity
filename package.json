@@ -6,6 +6,10 @@
     "docs:serve": "vitepress serve docs"
   },
   "devDependencies": {
+    "@layer0/cli": "^4.19.7",
+    "@layer0/core": "^4.19.7",
+    "@layer0/devtools": "^4.19.7",
+    "@layer0/prefetch": "^4.19.7",
     "@types/node": "^18.11.18",
     "vitepress": "latest"
   },
