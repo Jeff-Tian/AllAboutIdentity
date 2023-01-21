@@ -5,20 +5,28 @@
 ```mermaid
 mindmap
   root((身份认证))
-    OAuth 2.0
-      授权码许可
-      ::icon(fa fa-book)
-      客户端许可
-      隐式许可
-      设备码许可
-    OIDC
-      
-    IdP
-      authing.cn
+    概念
+      OAuth 2.0
+        授权码许可
+        客户端许可
+        隐式许可
+        设备码许可
+      OIDC
+    解决方案
+      authing
       Keycloak
       Duende IdentityServer
       Okta
-      Auth 0
-      Azure AD
-      ...
+      Auth
+      AzureAD
+    应用实例
+      纯前端
+      BFF
+        Naive BFF
+        TMI BFF
+        Full BFF
+      后端
+        Java SpringBoot
+        Egg js
+        GraphQL
 ```
