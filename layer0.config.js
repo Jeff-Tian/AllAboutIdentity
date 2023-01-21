@@ -5,11 +5,11 @@ module.exports = {
   backends: {
     origin: {
       // The domain name or IP address of the origin server
-      domainOrIp: "identity.jefftian.work",
+      // domainOrIp: "identity.jefftian.work",
 
       // When provided, the following value will be sent as the host header when connecting to the origin.
       // If omitted, the host header from the browser will be forwarded to the origin.
-      hostHeader: "identity.jefftian.work",
+      // hostHeader: "identity.jefftian.work",
 
       // Uncomment the following line if TLS is not set up properly on the origin domain and you want to ignore TLS errors
       // disableCheckCert: true,
