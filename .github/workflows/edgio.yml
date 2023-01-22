@@ -65,8 +65,8 @@ jobs:
             ${{ runner.os }}-build-
             ${{ runner.os }}-
       - name: Install packages
-        run: npm ci # if using npm for your project
-        #  run: rm -rf node_modules && yarn install --frozen-lockfile # if using yarn for your project
+#        run: npm ci # if using npm for your project
+        run: rm -rf node_modules && yarn install --frozen-lockfile # if using yarn for your project
       - name: Deploy to Edgio
         run: |
           npm run deploy -- ${{'--branch=$BRANCH_NAME' || ''}} --token=$deploy_token  \
