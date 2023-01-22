@@ -1,6 +1,6 @@
 # Idea
 
-## Mindmap
+## 身份认证
 
 ```mermaid
 mindmap
@@ -38,4 +38,43 @@ mindmap
         Java SpringBoot
         Egg js
         GraphQL
+```
+
+
+## 实用软件工程能力
+
+```mermaid
+mindmap
+  root((实用软件工程能力))
+    前言
+    代码管理
+      git
+      svn
+    构建工具
+        maven
+        gradle
+        npm
+        yarn
+        gulp
+        webpack
+        rollup
+    依赖管理
+        npm
+        yarn
+        maven
+        gradle
+    代码质量
+        sonarqube
+        sonarcloud
+        codeclimate
+        codacy
+        codefactor
+    CICD
+        jenkins
+        github action
+        gitlab ci
+        travis ci
+        circle ci
+        azure pipeline
+        aws codepipeline
 ```
