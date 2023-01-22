@@ -3,7 +3,8 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "docs:serve": "vitepress serve docs",
+    "deploy": "0 deploy"
   },
   "devDependencies": {
     "@layer0/cli": "^4.19.7",

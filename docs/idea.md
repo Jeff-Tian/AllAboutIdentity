@@ -21,6 +21,11 @@ mindmap
       AzureAD
     应用实例
       纯前端
+        UMI
+        Next.js
+        Create React App
+        Vue
+        微信小程序
       BFF
         Naive BFF
         TMI BFF
