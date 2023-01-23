@@ -7,8 +7,6 @@ mindmap
   root((身份认证))
     前言
       我的故事
-      什么是身份认证
-      为什么要做身份认证  
     概念
       OAuth 2.0
         授权码许可
@@ -16,13 +14,19 @@ mindmap
         隐式许可
         设备码许可
       OIDC
+    场景
+      2B
+        对内
+        对合作伙伴
+      2C
     解决方案
       authing
       Keycloak
       Duende IdentityServer
       Okta
-      Auth
-      AzureAD
+      Auth0
+      Azure AD
+      Azure AD B2C
     应用实例
       纯前端
         UMI
