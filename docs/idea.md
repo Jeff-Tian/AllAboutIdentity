@@ -36,20 +36,24 @@ mindmap
       Azure AD
       Azure AD B2C
     应用实例
-      纯前端
-        UMI
-        Next.js
-        Create React App
-        Vue
-        微信小程序
-      BFF
-        Naive BFF
-        TMI BFF
-        Full BFF
-      后端
-        Java SpringBoot
-        Egg js
-        GraphQL
+      对接 IdP
+        纯前端
+          UMI
+          Next.js
+          Create React App
+          Vue
+          微信小程序
+        BFF
+          Naive BFF
+          TMI BFF
+          Full BFF
+        后端
+          Java SpringBoot
+          Egg js
+          GraphQL
+      用户联邦
+        Keycloak 联邦 LDAP
+      Identity Broker
 ```
 
 
