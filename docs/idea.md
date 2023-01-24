@@ -28,13 +28,20 @@ mindmap
         对合作伙伴
       2C
     解决方案
-      authing
-      Keycloak
-      Duende IdentityServer
-      Okta
-      Auth0
-      Azure AD
-      Azure AD B2C
+      IDaaS
+        authing
+        Okta
+        Auth0
+        Azure AD
+        Azure AD B2C
+        AWS Cognito
+      开源方案
+        Java
+          Keycloak
+        ASP.NET
+          Duende IdentityServer
+        NodeJs
+          OAuth 2 Server TypeScript
     应用实例
       对接 IdP
         纯前端
