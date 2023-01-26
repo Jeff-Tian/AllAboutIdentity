@@ -4,7 +4,7 @@
 
 ```mermaid
 mindmap
-  root((身份认证))
+  root((身份认证那些事儿))
     前言
       我的故事
       关于本书
@@ -27,6 +27,7 @@ mindmap
         对内
         对合作伙伴
       2C
+      2D
     解决方案
       IDaaS
         authing
@@ -42,7 +43,7 @@ mindmap
           Duende IdentityServer
         NodeJs
           OAuth 2 Server TypeScript
-    应用实例
+    应用实战
       对接 IdP
         纯前端
           UMI
@@ -61,6 +62,7 @@ mindmap
       用户联邦
         Keycloak 联邦 LDAP
       Identity Broker
+      单点登录
 ```
 
 
