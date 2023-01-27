@@ -8,7 +8,7 @@ mindmap
     前言
       我的故事
       关于本书
-    概念
+    常见概念
       会话
       令牌
       OAuth 2.0
@@ -22,12 +22,21 @@ mindmap
         无跳转方案
           根域名一致
           跨根域名
-    场景
-      2B
-        对内
-        对合作伙伴
-      2C
-      2D
+    分类
+      场景
+        2B
+          对内
+          对合作伙伴
+        2C
+        2D
+      目标对象
+        机器 (Peer Authentication)
+        人类 (Request Authentication)
+      认证方式
+        Basic
+        Digest
+        OAuth
+        Bearer
     解决方案
       IDaaS
         authing
