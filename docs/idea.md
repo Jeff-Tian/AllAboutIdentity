@@ -8,36 +8,37 @@ mindmap
     前言
       我的故事
       关于本书
-    常见概念
-      会话
-      令牌
-      OAuth 2.0
-        授权码许可
-        客户端许可
-        隐式许可
-        设备码许可
-      OIDC
-      单点登录
-        跳转方案
-        无跳转方案
-          根域名一致
-          跨根域名
-    分类
-      场景
-        2B
-          对内
-          对合作伙伴
-        2C
-        2D
-      目标对象
-        机器 (Peer Authentication)
-        人类 (Request Authentication)
-      认证方式
-        Basic
-        Digest
-        OAuth
-        Bearer
-    解决方案
+    第一部分：概念
+      常见概念
+        会话
+        令牌
+        OAuth 2.0
+          授权码许可
+          客户端许可
+          隐式许可
+          设备码许可
+        OIDC
+        单点登录
+          跳转方案
+          无跳转方案
+            根域名一致
+            跨根域名
+      分类
+        场景
+          2B
+            对内
+            对合作伙伴
+          2C
+          2D
+        目标对象
+          机器 (Peer Authentication)
+          人类 (Request Authentication)
+        认证方式
+          Basic
+          Digest
+          OAuth
+          Bearer
+    第二部分：解决方案
       IDaaS
         authing
         Okta
@@ -52,7 +53,7 @@ mindmap
           Duende IdentityServer
         NodeJs
           OAuth 2 Server TypeScript
-    应用实战
+    第三部分：应用实战
       对接 IdP
         纯前端
           UMI
@@ -72,6 +73,7 @@ mindmap
         Keycloak 联邦 LDAP
       Identity Broker
       单点登录
+    后记
 ```
 
 
